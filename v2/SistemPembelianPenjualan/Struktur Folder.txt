@@ -1,0 +1,35 @@
+SistemPembelianPenjualan/
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   ├── js/
+│       ├── script.js
+├── db/
+│   ├── config.php
+├── views/
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── admin/
+│   │   ├── add_barang.php
+│   │   ├── add_pelanggan.php
+│   │   ├── edit_barang.php
+│   │   ├── delete_barang.php
+│   │   ├── delete_pelanggan.php
+│   │   ├── list_barang.php
+│   │   ├── list_pelanggan.php
+│   │   ├── list_transaksi.php
+│   ├── operator/
+│   │   ├── add_barang.php
+│   │   ├── edit_barang.php
+│   │   ├── edit_pelanggan_operator.php
+│   │   ├── list_barang.php
+│   │   ├── list_pelanggan_operator.php
+│   ├── user/
+│       ├── list_barang.php
+│       ├── transaksi.php
+│   │   ├── list_transaksi_user.php
+├── process/
+│   ├── login.php
+│   ├── logout.php
+│   ├── role_based.php
+├── index.php
